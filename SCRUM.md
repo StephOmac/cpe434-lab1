@@ -49,8 +49,8 @@ Board link: [[https://github.com/users/StephOmac/projects/1]]
 
 | Name | Role in Sprint 1 | GitHub username |
 |------|------------------|-----------------|
-| Omachonu Stephen | | [USERNAME] |
-| Ademuwagun Timilehin | | [USERNAME] |
-| Agbesola Mobluwaji | | [USERNAME] |
-| Adeniran Margaret | | [USERNAME] |
-| Nnamdi Jordell | | [USERNAME] |
+| Omachonu Stephen | | StephOmac |
+| Ademuwagun Timilehin | | T1m1A |
+| Agbesola Mobluwaji | | Agbesola-Moboluwaji |
+| Adeniran Margaret | | madeniran2300324-beep |
+| Nnamdi Jordell | | aljo-701 |
