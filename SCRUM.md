@@ -1,4 +1,4 @@
-# Scrum charter: [TEAM NAME]
+# Scrum charter: [TEAM 15]
 
 ## Product Goal
 
@@ -6,14 +6,14 @@ Artisans (tailors, carpenters, electricians, painters and others) can build an o
 
 ## Roles for Sprint 1 (rotate each Sprint)
 
-- Product Owner: [NAME]. Speaks for artisans and their clients, and decides the order of the backlog.
-- Scrum Master: [NAME]. Keeps events on time and the board current, and chases blockers.
-- Developers: [ALL MEMBER NAMES]. Everyone builds, including the Product Owner and Scrum Master.
+- Product Owner: [Omachonu Stephen]. Speaks for artisans and their clients, and decides the order of the backlog.
+- Scrum Master: [Ademuwagun Timilehin]. Keeps events on time and the board current, and chases blockers.
+- Developers: [Omachonu Stephen, Ademuwagun Timilehin, Agbesola Moboluwaji, Adeniran Margaret, NNamdi Jordell]. Everyone builds, including the Product Owner and Scrum Master.
 
 ## Rhythm
 
 - Sprint: 2 weeks
-- Daily Scrum: [DAYS, TIME], 10 minutes, 3 times a week (in person or on WhatsApp)
+- Daily Scrum: [Friday, Saturday and Sunday by 3pm], 10 minutes, 3 times a week in person.
 - Sprint Planning: about 30 minutes at the start of each Sprint
 - Sprint Review: in the lab, where we show the Increment and gather feedback
 - Retrospective: 15 minutes at the end of each Sprint
@@ -30,7 +30,7 @@ A card moves to Done only when all five are true:
 
 ## Kanban board
 
-Board link: [PASTE GITHUB PROJECTS LINK HERE]
+Board link: [[https://github.com/users/StephOmac/projects/1]]
 
 - Columns: To do, In progress (max 3), In review, Done
 - WIP limit: no more than 3 cards in In progress. Finish before starting something new.
@@ -49,8 +49,8 @@ Board link: [PASTE GITHUB PROJECTS LINK HERE]
 
 | Name | Role in Sprint 1 | GitHub username |
 |------|------------------|-----------------|
-| [NAME] | | [USERNAME] |
-| [NAME] | | [USERNAME] |
-| [NAME] | | [USERNAME] |
-| [NAME] | | [USERNAME] |
-| [NAME] | | [USERNAME] |
+| Omachonu Stephen | | [USERNAME] |
+| Ademuwagun Timilehin | | [USERNAME] |
+| Agbesola Mobluwaji | | [USERNAME] |
+| Adeniran Margaret | | [USERNAME] |
+| Nnamdi Jordell | | [USERNAME] |
